@@ -1,3 +1,6 @@
+node -v v14.5.0
+npm -v 6.14.5
+
 # test-work-bgs
 
 > user profile app
